@@ -64,5 +64,5 @@ from social media data.
 
 ## 📫 Contact
 - Email: fidhanesrin278@gmail.com  
-- LinkedIn: https://linkedin.com/in/fidha-nesrin  
-- GitHub: https://github.com/FidhaNesrin
+- LinkedIn: (https://www.linkedin.com/in/fidha-nesrin-50832b381/) 
+- GitHub: (https://github.com/FidhaNesrin)
