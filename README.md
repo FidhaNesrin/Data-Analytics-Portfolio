@@ -17,7 +17,7 @@ approach and real-world insights.
 Analyzed e-commerce sales data to identify sales trends and customer behavior over time.
 Performed data cleaning, monthly aggregation, visualization, and interpretation.
 
-🔗 Repository: https://github.com/FidhaNesrin/E-Commerce-Sales-Analysis
+🔗 Repository: [https://github.com/FidhaNesrin/E-Commerce-Sales-Analysis](https://github.com/FidhaNesrin/Ecommerce-purchase)
 
 ---
 
@@ -37,7 +37,7 @@ Built and evaluated a classification model to distinguish higher-risk applicants
 Performed HR analytics to investigate key factors influencing employee turnover.
 Applied basic predictive modeling to classify attrition risk.
 
-🔗 Repository: https://github.com/FidhaNesrin/Employee-Attrition-Analysis
+🔗 Repository: [https://github.com/FidhaNesrin/Employee-Attrition-Analysis](https://github.com/FidhaNesrin/Employee-Attrition-Prediction)
 
 ---
 
