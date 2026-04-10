@@ -11,7 +11,31 @@ approach and real-world insights.
 
 ## 🔹 Featured Projects
 
-### 1️⃣ E-Commerce Sales & Customer Analysis
+1️⃣ Sales Dashboard Analysis (Power BI / Excel)
+
+Tools: Power BI, Excel, DAX, Data Modeling
+
+Description:
+Analyzed retail sales data across regions, product categories, and time periods to track performance and trends.
+Built an interactive Power BI dashboard with KPI cards, trend charts, and dynamic slicers for year, category, and geography.
+Applied data modeling and DAX measures to calculate revenue growth, profit margins, and month-over-month comparisons.
+Identified top-performing products and underperforming regions, delivering actionable insights for sales strategy.
+
+🔗 Repository: (https://github.com/FidhaNesrin/superstore-sales-analysis)
+
+2️⃣ Global Superstore Sales Performance Analysis (Python / Excel)
+
+Tools: Python (Pandas, NumPy), Excel
+
+Description:
+Analyzed 2,000+ retail orders to identify sales trends, profitability patterns, and discount impact across regions and categories.
+Performed RFM analysis to segment customers and understand purchasing behavior.
+Identified high-discount orders as loss-making, supporting pricing strategy decisions.
+Developed an Excel dashboard with KPI metrics and slicers for easy reporting to non-technical users.
+
+🔗 Repository: (https://github.com/FidhaNesrin/PowerBI-GulfTraders-Dashboard)
+
+### 3️⃣ E-Commerce Sales & Customer Analysis
 **Tools:** Python, Pandas, Matplotlib, Seaborn  
 **Description:**  
 Analyzed e-commerce sales data to identify sales trends and customer behavior over time.
@@ -21,35 +45,7 @@ Performed data cleaning, monthly aggregation, visualization, and interpretation.
 
 ---
 
-### 2️⃣ Credit Risk Analysis
-**Tools:** Python, Pandas, Scikit-learn  
-**Description:**  
-Explored loan dataset to understand relationships between features and default risk.
-Built and evaluated a classification model to distinguish higher-risk applicants.
 
-🔗 Repository: https://github.com/FidhaNesrin/Credit-Risk-Analysis
-
----
-
-### 3️⃣ Employee Attrition Analysis
-**Tools:** Python, Pandas, Scikit-learn  
-**Description:**  
-Performed HR analytics to investigate key factors influencing employee turnover.
-Applied basic predictive modeling to classify attrition risk.
-
-🔗 Repository: [https://github.com/FidhaNesrin/Employee-Attrition-Analysis](https://github.com/FidhaNesrin/Employee-Attrition-Prediction)
-
----
-
-### 4️⃣ Twitter Sentiment Analysis
-**Tools:** Python, NLTK, TF-IDF  
-**Description:**  
-Conducted natural language processing on Tweets to understand sentiment trends.
-Extracted features and built classification models using TF-IDF vectorization.
-
-🔗 Repository: https://github.com/FidhaNesrin/Twitter-Sentiment-Analysis
-
----
 
 ## 🔹 Technical Skills
 - Python (Pandas, NumPy)
@@ -59,7 +55,9 @@ Extracted features and built classification models using TF-IDF vectorization.
 - Exploratory Data Analysis (EDA)
 - Data Visualization (Matplotlib, Seaborn)
 - Basic Machine Learning (Classification)
-- NLP (Text Preprocessing, TF-IDF)
+- Excel & Power BI (Dashboards, KPI Reporting, DAX)
+- Data Cleaning & Exploratory Data Analysis (EDA)
+
 
 ---
 
